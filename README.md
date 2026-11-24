@@ -92,11 +92,3 @@ Notes
 
 - Non-parametric tests are used because the data are ordinal (Likert) and the sample is small.
 - Respondents' answers are anonymous: the only identifier in the file is the submission timestamp.
-
-Citation
-
-If you use this material, please cite the BLIP-OLIVE paper (reference to be added).
-
-License
-
-To be specified.
